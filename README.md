@@ -18,7 +18,7 @@ A simple Python application for generating QR codes from user-provided URLs. Bui
 - Dependencies: `qrcode[pil]`, `customtkinter`
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 Copyright (c) 2025 CoolGuy158-Git <https://coolguy158-git.github.io/My_Web_Page/>
 
